@@ -7,3 +7,7 @@ A line I wrote on my local computer
 
 This line I wrote after the credentials were crestaed and cached
 changed again
+
+### From Rstudio
+
+Changing this README file from R studio
